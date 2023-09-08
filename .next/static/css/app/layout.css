@@ -1,10 +1,10 @@
 /*!***********************************************************************************************************************************************************************************************************************************************************!*\
-  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[5].oneOf[12].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[5].oneOf[12].use[3]!./app/globals.css ***!
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[2].oneOf[13].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[2].oneOf[13].use[3]!./app/globals.css ***!
   \***********************************************************************************************************************************************************************************************************************************************************/
 @import url("https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap");
 
 /*
-! tailwindcss v3.3.3 | MIT License | https://tailwindcss.com
+! tailwindcss v3.3.2 | MIT License | https://tailwindcss.com
 */
 
 /*
@@ -174,8 +174,6 @@ optgroup,
 select,
 textarea {
   font-family: inherit; /* 1 */
-  font-feature-settings: inherit; /* 1 */
-  font-variation-settings: inherit; /* 1 */
   font-size: 100%; /* 1 */
   font-weight: inherit; /* 1 */
   line-height: inherit; /* 1 */
@@ -310,14 +308,6 @@ ul,
 menu {
   list-style: none;
   margin: 0;
-  padding: 0;
-}
-
-/*
-Reset default styling for dialogs.
-*/
-
-dialog {
   padding: 0;
 }
 
@@ -1238,11 +1228,11 @@ video {
 }
 /* END: search manufacturer styles */
 /*!**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
-  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[5].oneOf[2].use[1]!./node_modules/next/dist/build/webpack/loaders/next-font-loader/index.js??ruleSet[1].rules[5].oneOf[2].use[2]!./node_modules/next/font/google/target.css?{"path":"app/layout.tsx","import":"Inter","arguments":[{"subsets":["latin"]}],"variableName":"inter"} ***!
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[2].oneOf[3].use[1]!./node_modules/next/dist/build/webpack/loaders/next-font-loader/index.js??ruleSet[1].rules[2].oneOf[3].use[2]!./node_modules/next/font/google/target.css?{"path":"app/layout.tsx","import":"Inter","arguments":[{"subsets":["latin"]}],"variableName":"inter"} ***!
   \**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
 /* cyrillic-ext */
 @font-face {
-  font-family: '__Inter_20951f';
+  font-family: '__Inter_0ec1f4';
   font-style: normal;
   font-weight: 100 900;
   font-display: swap;
@@ -1251,7 +1241,7 @@ video {
 }
 /* cyrillic */
 @font-face {
-  font-family: '__Inter_20951f';
+  font-family: '__Inter_0ec1f4';
   font-style: normal;
   font-weight: 100 900;
   font-display: swap;
@@ -1260,7 +1250,7 @@ video {
 }
 /* greek-ext */
 @font-face {
-  font-family: '__Inter_20951f';
+  font-family: '__Inter_0ec1f4';
   font-style: normal;
   font-weight: 100 900;
   font-display: swap;
@@ -1269,7 +1259,7 @@ video {
 }
 /* greek */
 @font-face {
-  font-family: '__Inter_20951f';
+  font-family: '__Inter_0ec1f4';
   font-style: normal;
   font-weight: 100 900;
   font-display: swap;
@@ -1278,7 +1268,7 @@ video {
 }
 /* vietnamese */
 @font-face {
-  font-family: '__Inter_20951f';
+  font-family: '__Inter_0ec1f4';
   font-style: normal;
   font-weight: 100 900;
   font-display: swap;
@@ -1287,7 +1277,7 @@ video {
 }
 /* latin-ext */
 @font-face {
-  font-family: '__Inter_20951f';
+  font-family: '__Inter_0ec1f4';
   font-style: normal;
   font-weight: 100 900;
   font-display: swap;
@@ -1296,13 +1286,13 @@ video {
 }
 /* latin */
 @font-face {
-  font-family: '__Inter_20951f';
+  font-family: '__Inter_0ec1f4';
   font-style: normal;
   font-weight: 100 900;
   font-display: swap;
   src: url(/_next/static/media/2aaf0723e720e8b9-s.p.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
-}@font-face {font-family: '__Inter_Fallback_20951f';src: local("Arial");ascent-override: 90.20%;descent-override: 22.48%;line-gap-override: 0.00%;size-adjust: 107.40%
-}.__className_20951f {font-family: '__Inter_20951f', '__Inter_Fallback_20951f';font-style: normal
+}@font-face {font-family: '__Inter_Fallback_0ec1f4';src: local("Arial");ascent-override: 90.20%;descent-override: 22.48%;line-gap-override: 0.00%;size-adjust: 107.40%
+}.__className_0ec1f4 {font-family: '__Inter_0ec1f4', '__Inter_Fallback_0ec1f4';font-style: normal
 }
 
